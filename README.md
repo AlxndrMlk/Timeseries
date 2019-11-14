@@ -1,6 +1,6 @@
 # Timeseries
 
-
+This repository contains materials related to time series analysis and forecasting.
 
 ## Gramian Angular Field (GAF)
 
